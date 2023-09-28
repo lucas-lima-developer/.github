@@ -1,3 +1,5 @@
-## Descrição breve da PR: (obrigatório)
-## Exemplos de como testar a PR: (obrigatório)
-## Imagens anexas: (opcional)
+### Descrição breve da PR:
+- 
+### Exemplos de como testar a PR:
+- 
+### Imagens anexas:
